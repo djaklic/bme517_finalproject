@@ -1,0 +1,11 @@
+glmnet/
+B_fromLASSO.mat
+B_fromLASSO_lambda.mat
+firingrates_testing_950.mat
+firingrates_training_950.mat
+positionAndSpeeds_testing_950.mat
+positionAndSpeeds_training_950.mat
+firingrates_testing.mat
+firingrates_training.mat
+positionAndSpeeds_testing.mat
+positionAndSpeeds_training.mat
